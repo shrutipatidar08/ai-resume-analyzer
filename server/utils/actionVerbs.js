@@ -1,0 +1,38 @@
+const ACTION_VERBS = [
+  'accelerated', 'accomplished', 'achieved', 'acquired', 'acted', 'adapted', 'addressed',
+  'administered', 'advanced', 'advised', 'allocated', 'analyzed', 'applied', 'appointed',
+  'appraised', 'approved', 'arbitrated', 'architected', 'arranged', 'assembled', 'assessed',
+  'assigned', 'assisted', 'audited', 'authored', 'automated', 'balanced', 'benchmarked',
+  'boosted', 'budgeted', 'built', 'calculated', 'centralized', 'championed', 'clarified',
+  'collaborated', 'collected', 'combined', 'commanded', 'communicated', 'composed', 'computed',
+  'conceived', 'conceptualized', 'conducted', 'configured', 'consolidated', 'constructed',
+  'consulted', 'contracted', 'controlled', 'converted', 'coordinated', 'corrected', 'counseled',
+  'created', 'cultivated', 'customized', 'debugged', 'decreased', 'delegated', 'delivered',
+  'demonstrated', 'deployed', 'designed', 'detailed', 'detected', 'determined', 'developed',
+  'devised', 'diagnosed', 'directed', 'discovered', 'dispatched', 'drafted', 'earned',
+  'eliminated', 'enabled', 'enacted', 'encouraged', 'engineered', 'enhanced', 'enlarged',
+  'established', 'estimated', 'evaluated', 'examined', 'executed', 'expanded', 'expedited',
+  'explained', 'extracted', 'fabricated', 'facilitated', 'finalized', 'focused', 'forecasted',
+  'formulated', 'founded', 'fostered', 'fulfilled', 'gained', 'generated', 'governed',
+  'guided', 'handled', 'headed', 'heightened', 'identified', 'illustrated', 'implemented',
+  'improved', 'improvised', 'incorporated', 'increased', 'indexed', 'individualized', 'influenced',
+  'initiated', 'innovated', 'inspected', 'inspired', 'installed', 'instituted', 'instructed',
+  'integrated', 'intensified', 'interpreted', 'interviewed', 'introduced', 'invented', 'investigated',
+  'launched', 'led', 'leveraged', 'maintained', 'managed', 'maximized', 'measured',
+  'mediated', 'mentored', 'minimized', 'mobilized', 'moderated', 'modernized', 'monitored',
+  'motivated', 'navigated', 'negotiated', 'obtained', 'operated', 'optimized', 'orchestrated',
+  'organized', 'originated', 'overhauled', 'oversaw', 'performed', 'persuaded', 'piloted',
+  'pioneered', 'planned', 'prepared', 'presented', 'prioritized', 'produced', 'programmed',
+  'promoted', 'proposed', 'provided', 'published', 'rebuilt', 'recommended', 'reconciled',
+  'recruited', 'redesigned', 'reduced', 'refined', 'reformed', 'regulated', 'reinforced',
+  'remodeled', 'reorganized', 'repaired', 'replaced', 'represented', 'researched', 'resolved',
+  'restructured', 'revamped', 'reviewed', 'revised', 'revitalized', 'saved', 'scaled',
+  'scheduled', 'screened', 'secured', 'simplified', 'solved', 'spearheaded', 'standardized',
+  'stimulated', 'streamlined', 'strengthened', 'structured', 'supervised', 'surpassed', 'systematized',
+  'targeted', 'tested', 'trained', 'transformed', 'translated', 'upgraded', 'utilized', 'validated',
+  'yielded'
+];
+
+module.exports = {
+  ACTION_VERBS,
+};
